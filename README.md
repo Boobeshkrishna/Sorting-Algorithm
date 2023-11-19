@@ -24,7 +24,7 @@ i)	#Selection Sort
 Program to sort the elements in the list using the Selection Sort algorithm.
 Developed by: your name BOOBESH PM
 RegisterNumber: 212222233001
-'''
+''
 def selection_sort(nums):
     for i in range(len(nums)):
         lowest_value=i
